@@ -35,10 +35,10 @@ This space showcases key projects, design patterns, and reusable templates that 
 
 📢 Connect with Me
 
-LinkedIn
+- [LinkedIn](https://www.linkedin.com/in/prasath-basuvaraj/)
 
-Medium
+- [Medium](https://medium.com/@prasathbasuvaraj)
 
-📧 you@example.com
+- 📧 prasath.buddie@gmail.com
 
-“Clean architecture. Scalable systems. Tech that lasts.”
+🚀 “Clean architecture. Scalable systems. Tech that lasts.”
