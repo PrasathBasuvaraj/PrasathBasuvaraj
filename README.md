@@ -1,19 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Prasath Basuvaraj
 
-- 📝 Blogging helps me learn new things. Visit my [TechSpark](https://techspark.hyppar.org/)
+🚀 **IC Leadership Journey – Scaling Impact Through Systems, Code, and Craft**
+
+I'm on an ongoing **IC Leadership Journey** — elevating my role as a hands-on technical leader through deep system design, platform architecture, and developer excellence.
+
+With 20+ years of engineering experience, I specialize in:
+
+- 🏗️ Architecting and scaling cloud-native systems using Java, Spring Boot, Docker, AWS, and OpenShift (on-prem)
+
+- 🧱 Building resilient, maintainable, and modular platforms that power enterprise-grade apps
+
+- 🧭 Driving clean architecture, microservices best practices, and system ownership
+
+- 👥 Mentoring engineers and guiding cross-team initiatives as a Staff+ IC
+
+This space showcases key projects, design patterns, and reusable templates that reflect my approach to engineering leadership through code.
+
+
+📌 Featured Projects
+
+- Spring Boot Microservice Template A modular Spring Boot starter with JWT, CI/CD, Swagger, and AWS deployment.
   
+- System Design Patterns Real-world architecture diagrams, cloud-native system blueprints, and best practices.
+  
+- DevOps Dashboard End-to-end CI/CD setup using GitHub Actions, Docker, and Kubernetes for microservices.
 
-<!--
-**PrasathBasuvaraj/PrasathBasuvaraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Currently Learning
 
-Here are some ideas to get you started:
+- Advanced Kubernetes (Istio, Helm, Operators)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- OpenTelemetry & Distributed Tracing
+  
+- System Design at Scale (StaffEng level)
+
+📢 Connect with Me
+
+LinkedIn
+
+Medium
+
+📧 you@example.com
+
+“Clean architecture. Scalable systems. Tech that lasts.”
