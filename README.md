@@ -19,7 +19,7 @@ This space showcases key projects, design patterns, and reusable templates that 
 
 📌 Featured Projects
 
-- Spring Boot Microservice Template A modular Spring Boot starter with JWT, CI/CD, Swagger, and AWS deployment.
+- [Spring Boot Microservice Template](https://github.com/PrasathBasuvaraj/springboot-service-starter) : A modular Spring Boot starter with JWT, CI/CD, Swagger, and AWS deployment.
   
 - System Design Patterns Real-world architecture diagrams, cloud-native system blueprints, and best practices.
   
