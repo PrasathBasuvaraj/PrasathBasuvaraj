@@ -21,7 +21,7 @@ This space showcases key projects, design patterns, and reusable templates that 
 
 - [Spring Boot Service Starter](https://github.com/PrasathBasuvaraj/springboot-service-starter) : A modular Spring Boot service starter template with Actuator, OpenAPI, Spring Validation, Exception Handling, Layered Architecture & GitHub Actions.
   
-- [Repository to store LLM Learnings](https://github.com/PrasathBasuvaraj/llm_journey) : A repository to capture all my learnings I aquire during my LLM Engineer Journey 
+- [LLM Learnings Repository](https://github.com/PrasathBasuvaraj/llm_journey) – A collection of insights, experiments, and notes from my journey as an LLM Engineer.
 
 - System Design Patterns Real-world architecture diagrams, cloud-native system blueprints, and best practices.
   
