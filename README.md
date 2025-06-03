@@ -21,11 +21,15 @@ This space showcases key projects, design patterns, and reusable templates that 
 
 - [Spring Boot Service Starter](https://github.com/PrasathBasuvaraj/springboot-service-starter) : A modular Spring Boot service starter template with Actuator, OpenAPI, Spring Validation, Exception Handling, Layered Architecture & GitHub Actions.
   
+- [Repository to store LLM Learnings](https://github.com/PrasathBasuvaraj/llm_journey) : A repository to capture all my learnings I aquire during my LLM Engineer Journey 
+
 - System Design Patterns Real-world architecture diagrams, cloud-native system blueprints, and best practices.
   
 - DevOps Dashboard End-to-end CI/CD setup using GitHub Actions, Docker, and Kubernetes for microservices.
 
 🧠 Currently Learning
+
+- LLM Engineering (LLM, RAG, LLM Agents)
 
 - Advanced Kubernetes (Istio, Helm, Operators)
 
